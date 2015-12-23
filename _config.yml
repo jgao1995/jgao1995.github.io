@@ -1,0 +1,39 @@
+permalink   : /:categories/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed
+
+# Site settings
+title: Joseph Gao
+description: "A website for myself"
+email: gaoj@seas.upenn.edu
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com"
+url: "http://nandomoreira.me/lora"
+repository: "https://github.com/jgao1995"
+disqus_shortname: "joseph_gao"
+#google_analytics: UA-52446115-1
+
+# social footer
+social:
+  github:
+    slug: github
+    link: http://github.com/jgao1995
+  facebook:
+    slug: facebook
+    link: https://www.facebook.com/jgao1995
+  twitter:
+    slug: twitter
+    link: https://twitter.com/Jose_gao
+  linkedin:
+    slug: linkedin
+    link: https://www.linkedin.com/in/jgao1995
