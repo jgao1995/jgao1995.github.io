@@ -8,7 +8,7 @@ You can find both my current and past projects listed here. While some may no lo
 
 ##Current Projects
 
-### Jukebox
+### [Jukebox](https://github.com/jgao1995/Jukebox)
 - Rails app that allows users to join rooms and share music from Youtube, Soundcloud, and Spotify for everyone in the room to enjoy! The inspiration for this idea came from Soundrop, a Spotify add-on that has since been removed from Spotify's service. My friends and I were big fans of Soundrop, but after its demise we all were unable to find an alternative service. Hence, I decided to create Jukebox! 
 
 ### [Barter](https://github.com/jgao1995/Barter)
