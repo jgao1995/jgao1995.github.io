@@ -9,7 +9,7 @@ You can find both my current and past projects listed here. While some may no lo
 ##Current Projects
 
 ### Jukebox
-- Rails app that allows users to join rooms and share music from Youtube, Soundcloud, and Spotify for everyone in the room to enjoy! The inspiration for this idea came from Soundrop, a Spotify add-on that has since been removed from Spotify's service. I used to use Soundrop a lot with my friends, but after its demise we all were unable to find an alternative service. Hence, I decided to create Jukebox! 
+- Rails app that allows users to join rooms and share music from Youtube, Soundcloud, and Spotify for everyone in the room to enjoy! The inspiration for this idea came from Soundrop, a Spotify add-on that has since been removed from Spotify's service. My friends and I were big fans of Soundrop, but after its demise we all were unable to find an alternative service. Hence, I decided to create Jukebox! 
 
 ### [Barter](https://github.com/jgao1995/Barter)
 - An iOS app that lets you trade your unwanted items with strangers in your area. If you were to take a step into my dorm room right now, you would see an immeasurable amount of odd knick knacks that I feel are only taking up space. Perhaps I can exchange them with someone in a nearby dorm for items of value to me? In order to accomplish this, I decided to create Barter! It's simple and easy to use, like Tinder, but also modern and not ugly like Craigslist. 
