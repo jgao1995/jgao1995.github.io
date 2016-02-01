@@ -8,8 +8,8 @@ You can find both my current and past projects listed here. While some may no lo
 
 ##Current Projects
 
-### [Jukebox](https://github.com/jgao1995/Jukebox)
-- Rails app that allows users to join rooms and share music from Youtube, Soundcloud, and Spotify for everyone in the room to enjoy! The inspiration for this idea came from Soundrop, a Spotify add-on that has since been removed from Spotify's service. My friends and I were big fans of Soundrop, but after its demise we all were unable to find an alternative service. Hence, I decided to create Jukebox! 
+### [Watchman](https://github.com/jgao1995/Watchman)
+- A watchOS + iOS app that made use of watchOS2's new CoreMotion features by monitoring the accelorometer and gyroscope for sudden fluxes in acceleration. The primary goal of this app is to get it onto the wrists of local law enforcement agents, and have the watch app listen for the sudden change in acceleration when a shot is fired by an officer wearing the watch. When the app detects the shot, it will send out a warning to nearby civilians and officers. 
 
 ### [Barter](https://github.com/jgao1995/Barter)
 - An iOS app that lets you trade your unwanted items with strangers in your area. If you were to take a step into my dorm room right now, you would see an immeasurable amount of odd knick knacks that I feel are only taking up space. Perhaps I can exchange them with someone in a nearby dorm for items of value to me? In order to accomplish this, I decided to create Barter! It's simple and easy to use, like Tinder, but also modern and not ugly like Craigslist. 
