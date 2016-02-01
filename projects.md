@@ -6,7 +6,7 @@ permalink: /projects/
 
 You can find both my current and past projects listed here. While some may no longer be viewable live, you can find all of the sources on [my github](https://github.com/jgao1995)!
 
-##Current Projects
+## Current Projects
 
 ### [Watchman](https://github.com/jgao1995/Watchman)
 - A watchOS + iOS app that made use of watchOS2's new CoreMotion features by monitoring the accelorometer and gyroscope for sudden fluxes in acceleration. The primary goal of this app is to get it onto the wrists of local law enforcement agents, and have the watch app listen for the sudden change in acceleration when a shot is fired by an officer wearing the watch. When the app detects the shot, it will send out a warning to nearby civilians and officers. 
@@ -14,7 +14,7 @@ You can find both my current and past projects listed here. While some may no lo
 ### [Barter](https://github.com/jgao1995/Barter)
 - An iOS app that lets you trade your unwanted items with strangers in your area. If you were to take a step into my dorm room right now, you would see an immeasurable amount of odd knick knacks that I feel are only taking up space. Perhaps I can exchange them with someone in a nearby dorm for items of value to me? In order to accomplish this, I decided to create Barter! It's simple and easy to use, like Tinder, but also modern and not ugly like Craigslist. 
 
-##Past Projects
+## Past Projects
 
 ### [Collaborate](http://collaborate-io.herokuapp.com/) 
 - Rails app that lets users create campaigns and vote for their favorite ones. Complete with a recommendations system, as well as a ranking system for active campaigns. Users are allowed to comment on their favorite campaigns, and provide feedback to the owner of each campaign, to collaboratively improve each campaign. Inspired by Product Hunt and Kickstarter. The github repo can be found [here](https://github.com/jgao1995/Collaborate).
