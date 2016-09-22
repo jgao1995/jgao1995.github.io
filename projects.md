@@ -8,13 +8,19 @@ You can find both my current and past projects listed here. While some may no lo
 
 ## Current Projects
 
+### [PennVolvement](http://pennvolvement.com/)
+- Rails webapp that connects Penn students to local organizations in need of volunteers. Students are able to create their own organizations and post their own volunteer events as well. I lead the development of PennVolvement as a PM and lead developer in Penn Labs. The app itself has been approved by the University of Pennsylvania for use, and has been named the official student volunteer service portal for Penn students by the Penn UA. 
+
+## Past Projects
+
+### [Surgery.io](https://github.com/jgao1995/Surgery.io)
+- Rails webapp that allows surgeons to quickly check the compatibility between two or more endovascular surgical or neuro surgical devices. The app also enables surgeons and doctors to configure and simulate hypothetical surgical scenarios, save and share the scenarios for future reference, and comment on other doctor's posted scenarios. The app has been approved for use by the Hospital at University of Pennsylvania
+
 ### [Watchman](https://github.com/jgao1995/Watchman)
-- A watchOS application that works in tandem with its iOS counterpart. Watchman allows the app to detect the immense recoil that results from a gunshot and issue a safety warning to nearby civilians and law enforcement authorities. The app utilizes the CoreMotion framework to continually record the accelerometer activity of the watch. The idea was to provide police offers who have an apple watch with a tool that would allow officers provide a safer environment for civilians and officers alike, so when a potential fire-fight is breaking out, civilians will instantly know dangerous hotspots and officers with the app will be able to respond without having to wait for a dispatcher to inform them of the situation. 
+- A watchOS application that works in tandem with its iOS counterpart. Watchman allows the app to detect the immense recoil that results from a gunshot and issue a safety warning to nearby civilians and law enforcement authorities. The app utilizes the CoreMotion framework to continually record the accelerometer activity of the watch, as well as the HealthKit to monitor the officer's heartrate in BPM. The accelerometer data is cross-referenced with the heartrate data to prevent false alarm alerts. The idea was to provide police offers who have an apple watch with a tool that would allow officers provide a safer environment for civilians and officers alike, so when a potential fire-fight is breaking out, civilians will instantly know dangerous hotspots and officers with the app will be able to respond without having to wait for a dispatcher to inform them of the situation. 
 
 ### [Barter](https://github.com/jgao1995/Barter)
 - An iOS app that lets you trade your unwanted items with strangers in your area. If you were to take a step into my dorm room right now, you would see an immeasurable amount of odd knick knacks that I feel are only taking up space. Perhaps I can exchange them with someone in a nearby dorm for items of value to me? In order to accomplish this, I decided to create Barter! It's simple and easy to use, like Tinder, but also modern and not ugly like Craigslist. 
-
-## Past Projects
 
 ### [Collaborate](http://collaborate-io.herokuapp.com/) 
 - Rails app that lets users create campaigns and vote for their favorite ones. Complete with a recommendations system, as well as a ranking system for active campaigns. Users are allowed to comment on their favorite campaigns, and provide feedback to the owner of each campaign, to collaboratively improve each campaign. Inspired by Product Hunt and Kickstarter. The github repo can be found [here](https://github.com/jgao1995/Collaborate).
